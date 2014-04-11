@@ -21,7 +21,7 @@ public class MyFirstJunit
 	public void stop() throws Throwable
 	
 	{
-		Thread.sleep(8000);
+		Thread.sleep(3000);
 		browser.quit();
 		
 	}
