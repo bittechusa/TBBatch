@@ -1,0 +1,81 @@
+JAVA: 
+	Java is object oriented programming  and platform independent language.We used java language to automate our application.
+
+ECLIPSE:
+	Eclipse is a platform that has been designed from the ground up for building integrated web and application development tooling.By design, the platform does not provide a great deal of end user functionality by itself. The value of the platform is what it encourages: rapid development of integrated features based on a plug-in model.We usally used eclipse as editor to write out code.
+
+SELENIUM WEBDRIVER:
+	Selenium webdriver is api or testing tool which is use for automate the browser.WebDriver is designed to provide a simpler, more concise programming interface in addition to addressing some limitations in the Selenium-RC API. Selenium-WebDriver was developed to better support dynamic web pages where elements of a page may change without the page itself being reloaded. WebDriver’s goal is to supply a well-designed object-oriented API that provides improved support for modern advanced web-app testing problems.
+
+SELENIUM IDE:
+	Selenium IDE is a fully-featured Integrated Development Environment (IDE)that installs as a plugin in Mozilla Firefox and enables developers to test their web applications through Selenium. With the Selenium IDE, you can record user interactions with the web browser and play them back to test for errors.it has so many limitation like u cannt use any statement ,any loop,paralel or cross browsing testing,big project failed frequently etc.
+
+JUNIT:
+	JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.Junit has some other annotation which helps programmer to give nice structure in programing.sothat all other team member dont have to write common type of coding.
+
+TESTNG:
+	TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use, such as: Annotations. Run your tests in arbitrarily big thread pools with various policies available.We can see report throgh the browser using testng.
+
+MAVEN:
+	Maven is a project building tool.Maven's primary goal is to allow a developer to comprehend the complete state of a development effort in the shortest period of time. In order to attain this goal there are several areas of concern that Maven attempts to deal with:
+
+		Making the build process easy
+		Providing a uniform build system
+		Providing quality project information
+		Providing guidelines for best practices development
+		Allowing transparent migration to new features
+
+GIT:
+	Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds.Git is fast. With Git, nearly all operations are performed locally, giving it a huge speed advantage on centralized systems that constantly have to communicate with a server somewhere.You also can do clone whole repository.It's impossible to get anything out of Git other than the exact bits you put in.
+
+JENKINS:
+	Jenkins (https://wiki.jenkins-ci.org) is a full featured continuous integration (CI) server that can run builds, tests, and other scheduled tasks and integrate with your OpenShift applications.Jenkins provides continuous integration services for software development. It is a server-based system running in a servlet container such as Apache Tomcat. It supports SCM tools including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, Clearcase and RTC, and can execute Apache Ant and Apache Maven based projects as well as arbitrary shell scripts and Windows batch commands.In Jenkins we also used junit plugin to see the project report. 
+
+SELENIUM GRID:
+	Selenium-Grid allows you run your tests on different machines against different browsers in parallel. That is, running multiple tests at the same time against different machines running different browsers and operating systems. Essentially, Selenium-Grid support distributed test execution. It allows for running your tests in a distributed test execution environment.A grid consists of a single hub, and one or more nodes. Both are started using the selenium-server.jar executable.The hub receives a test to be executed along with information on which browser and ‘platform’ (i.e. WINDOWS, LINUX, etc) where the test should be run. It ‘knows’ the configuration of each node that has been ‘registered’ to the hub. Using this information it selects an available node that has the requested browser-platform combination. Once a node has been selected, Selenium commands initiated by the test are sent to the hub, which passes them to the node assigned to that test. The node runs the browser, and executes the Selenium commands within that browser against the application under test.
+
+SAUCELAB:
+	Sauce Labs is a cloud-hosted, web and mobile application testing company based in San Francisco, California. Founded by Jason Huggins, the creator of Selenium, Sauce Labs lets users run Selenium, Appium and JavaScript unit tests across 250+ browser and OS platforms at scale without setting up or maintaining dedicated testing infrastructure.
+
+PLATFORM: 
+	I am expert in verious platform like windows,mac,linux etc.
+	Linux is an operating system. It is the software on a computer that enables applications and the computer operator to access the devices on the computer to perform desired functions. The operating system (OS) relays instructions from an application to, for instance, the computer's processor. The processor performs the instructed task, then sends the results back to the application via the operating system.
+
+
+BACKEND TESTING:
+	I wrote some sql query to validate or retrive data from database.
+
+JIRA:
+	Jira is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
+
+QUALITY CENTER:
+	QC is project management tool.You can use Quality Center to create a project (central repository) of manual and automated tests and components, build test cycles, run tests and components, and report and track defects. You can also create reports and graphs to help you review the progress of test planning, runs, and defect tracking before a software release. When you work in QuickTest, you can create and save tests and components directly to your Quality Center project. You can run QuickTest tests or components from Quality Center and then use Quality Center to review and manage the results. 
+
+TESTLINK:
+	TestLink is a web based Test Management tool. The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate with well-known bug trackers.
+
+AGILE:
+	The Agile movement proposes alternatives to traditional project management. Agile approaches are typically used in software development to help businesses respond to unpredictability.These are characteristics that are common to all agile methods, and the things that I think make agile fundamentally different to a more traditional waterfall approach to software development.  They are: 1. Active user involvement is imperative 2. The team must be empowered to make decisions 3. Requirements evolve but the timescale is fixed 4. Capture requirements at a high level; lightweight & visual 5. Develop small, incremental releases and iterate 6. Focus on frequent delivery of products 7. Complete each feature before moving on to the next 8. Apply the 80/20 rule 9. Testing is integrated throughout the project lifecycle – test early and often 10. A collaborative & cooperative approach between all. 
+
+SPRINT:
+	In product development, a sprint is a set period of time during which specific work has to be completed and made ready for review.Each sprint begins with a planning meeting. During the meeting, the product owner (the person requesting the work) and the development team agree upon exactly what work will be accomplished during the sprint. The development team has the final say when it comes to determining how much work can realistically be accomplished during the sprint, and the product owner has the final say on what criteria needs to be met for the work to be approved and accepted.The duration of a sprint is determined by the scrum master, the team's facilitator. Once the team reaches a consensus for how many days a sprint should last, all future sprints should be the same. Traditionally, a sprint lasts 15-30 days.
+
+DAILY STANDUP:
+	A stand-up meeting (or simply "stand-up") is a daily team-meeting held to provide a status update to the team members.The meetings are usually timeboxed to 5–15 minutes and are held standing up to remind people to keep the meeting short and to-the-point.[3] The stand-up meeting is sometimes also referred to as the "stand-up", "morning rollcall" or "daily scrum".There are three questions to ask and answer in the daily stand-up.[4] Though it may not be practical to limit all discussion to these three questions, the goal is to stick as closely as possible to these questions:
+
+		What did I accomplish yesterday?
+		What will I do today?
+		What obstacles are impeding my progress?
+	The meeting usually takes place at the same time and place every working day. All team members are encouraged to attend,
+
+RETROSPECTIVE MEETING:
+	An Agile retrospective is a meeting that’s held at the end of an iteration in Agile software development (ASD). During the retrospective, the team reflects on what happened in the iteration and identifies actions for improvement going forward.Each member of the team members answers the following questions:
+
+		What worked well for us?
+		What did not work well for us?
+		What actions can we take to improve our process going forward?
+
+
+
+
+
