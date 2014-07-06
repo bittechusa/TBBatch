@@ -1,0 +1,14 @@
+2014-03-03 22:16:10,446 INFO  [BaseTest] browser is initialized  
+2014-03-03 22:16:10,449 INFO  [SmokeTest] ================================ 
+2014-03-03 22:16:10,449 INFO  [SmokeTest] CollectionTest test started 
+2014-03-03 22:16:10,449 INFO  [SmokeTest] ================================ 
+2014-03-03 22:16:10,515 INFO  [IndexPage] Visiting index page 
+2014-03-03 22:16:16,864 INFO  [IndexPage] Click Shop link 
+2014-03-03 22:16:19,958 INFO  [BaseTest] Quit the browser after each test 
+2014-03-03 22:16:24,248 INFO  [BaseTest] browser is initialized  
+2014-03-03 22:16:24,249 INFO  [SmokeTest] ================================ 
+2014-03-03 22:16:24,249 INFO  [SmokeTest] Purchse test started 
+2014-03-03 22:16:24,249 INFO  [SmokeTest] ================================ 
+2014-03-03 22:16:24,251 INFO  [IndexPage] Visiting index page 
+2014-03-03 22:16:26,657 INFO  [IndexPage] Click Shop link 
+2014-03-03 22:16:29,736 INFO  [BaseTest] Quit the browser after each test 
