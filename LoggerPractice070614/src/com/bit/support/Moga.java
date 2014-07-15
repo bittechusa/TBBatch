@@ -14,6 +14,7 @@ public class Moga
 		log.error("hheooooo");
 		log.info("hheooooo");
 		log.debug("hheooooo");
+		log.trace("ji");
 		
 	}
 
