@@ -1,0 +1,18 @@
+1:Why main method is public static void?
+2:How u use a private variable in another class?
+3:What is static variable?what is benefit?
+4:What is array?why we use an array?
+5:what is loop? how to write nested and enhanced loop?
+6:what is difference between interface and abstract?why u used abstract class in your project?
+7:what is four fundamental concept of java?
+8:What is the syntex of nested if--else statement?
+9:how to divided a string?
+10:what is difference between override and overloading?
+11:what is exception in java?how to handle exception in java?
+12:what is difference between final,finally and finalize?
+13:What is difference between method and constructor?
+14:what is assertion in java?give me syntex?
+15:Is that possible a class can inherit more than one class?if not how u solve that problem?
+16:What is polymorphism?why u need this in your program?
+17:What is different between error and exception in java?
+18:What is multithread?why u need that in your program?
