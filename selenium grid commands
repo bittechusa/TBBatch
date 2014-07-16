@@ -1,0 +1,9 @@
+1.open command prompt
+2.go to selenium server lebel
+3.To start hub :
+	java -jar selenium-server-standalone-2.14.0.jar -role hub
+4.To register nodes:
+	java -jar selenium-server-standalone-2.14.0.jar -role node  -hub http://localhost:4444/grid/register
+
+5.To customize settings:
+ 	-browser  browserName=firefox,version=3.6,platform=LINUX
