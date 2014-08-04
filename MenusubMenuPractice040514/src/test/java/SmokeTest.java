@@ -12,7 +12,7 @@ public class SmokeTest extends BaseTest
 	@Test
 	public void m1() throws Throwable
 	{
-		dr.manage().window().maximize();.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		dr.manage().window().maximize();dr.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		WebElement menu=dr.findElement(By.xpath("//a[text()='Women']"));
 		Actions a=new Actions(dr);
 		a.moveToElement(menu).perform();
