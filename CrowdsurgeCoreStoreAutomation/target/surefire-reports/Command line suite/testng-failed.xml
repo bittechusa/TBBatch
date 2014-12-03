@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.cs.ui.test.CoreStoreSmokeTest">
+        <methods>
+          <include name="start"/>
+          <include name="buyTicketsAsNewCustomerWithSameAddressByCreditCard"/>
+          <include name="buyTicketsAsNewCustomerWithDifferentAddressByCreditCard"/>
+          <include name="end"/>
+          <include name="buyTicketsAsNewCustomerWithSameAddressByPaypal"/>
+          <include name="buyTicketsAsExistingCustomerByPaypal"/>
+          <include name="buyTicketsAsExistingCustomerByCrediCard"/>
+          <include name="buyTicketsAsNewCustomerWithDifferentAddressByPaypal"/>
+        </methods>
+      </class> <!-- com.cs.ui.test.CoreStoreSmokeTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

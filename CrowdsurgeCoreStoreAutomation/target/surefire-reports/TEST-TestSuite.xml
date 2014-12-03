@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="6" time="73.126" errors="0" skipped="0" tests="6" name="TestSuite">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="24.0-b56"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/shahidulislam/Downloads/csauto"/>
+    <property name="java.runtime.version" value="1.7.0_40-b43"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/shahidulislam/Documents/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4093379480444812036.tmp"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/shahidulislam/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.8.5"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/shahidulislam"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="US-ASCII"/>
+    <property name="user.name" value="shahidulislam"/>
+    <property name="java.class.path" value="/Applications/eclipse/configuration/org.eclipse.osgi/bundles/274/1/.cp/jars/plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_40"/>
+    <property name="java.ext.dirs" value="/Users/shahidulislam/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/shahidulislam/Downloads/csauto/EMBEDDED"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="maven.bootclasspath" value="/Applications/eclipse/configuration/org.eclipse.osgi/bundles/274/1/.cp/jars/plexus-classworlds-2.4.jar"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="25.454" classname="com.cs.ui.test.CoreStoreSmokeTest" name="buyTicketsAsNewCustomerWithSameAddressByPaypal">
+    <failure message="Window not found. The browser window may have been closed.
+Command duration or timeout: 10 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 10 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:332)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:408)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:295)
+	at com.cs.ui.test.Common.verifyElementPresent(Common.java:144)
+	at com.cs.ui.test.CoreStoreSmokeTest.buyTicketsAsNewCustomerWithSameAddressByPaypal(CoreStoreSmokeTest.java:16)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Window not found. The browser window may have been closed.
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10917)
+	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7722)
+	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7868)
+	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7815)
+	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:10706)
+	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1935)
+	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2261)
+	at &lt;anonymous class&gt;.Connection.prototype.process(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1168)
+	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1616)
+	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1464)
+	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1333)
+</failure>
+    <system-out>&apos;buyTicketsAsNewCustomerWithSameAddressByPaypal&apos; method strted
+Upsell Continue button not found
+First name textbox not found
+Last name textbox not found
+Country box can not be selected
+Phone textbox not found
+Email textbox not found
+Confirm email textbox not found
+Password textbox not found
+Confirm Password textbox not found
+Mailing List checkbox not found
+Sign Up button not found
+</system-out>
+  </testcase>
+  <testcase time="6.009" classname="com.cs.ui.test.CoreStoreSmokeTest" name="buyTicketsAsNewCustomerWithDifferentAddressByPaypal">
+    <failure message="Window not found. The browser window may have been closed.
+Command duration or timeout: 12 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 12 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByName.findElement(By.java:305)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.cs.ui.test.Common.accessCodeHandle(Common.java:25)
+	at com.cs.ui.test.Common.addTicketsToCart(Common.java:133)
+	at com.cs.ui.test.CoreStoreSmokeTest.buyTicketsAsNewCustomerWithDifferentAddressByPaypal(CoreStoreSmokeTest.java:31)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Window not found. The browser window may have been closed.
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10917)
+	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7722)
+	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7868)
+	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7815)
+	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:10706)
+	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1935)
+	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2261)
+	at &lt;anonymous class&gt;.Connection.prototype.process(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1168)
+	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1616)
+	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1464)
+	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1333)
+</failure>
+    <system-out>&apos;buyTicketsAsNewCustomerWithDifferentAddressByPaypal&apos; method strted
+Buy Ticket Button not found
+</system-out>
+  </testcase>
+  <testcase time="6.025" classname="com.cs.ui.test.CoreStoreSmokeTest" name="buyTicketsAsNewCustomerWithSameAddressByCreditCard">
+    <failure message="Window not found. The browser window may have been closed.
+Command duration or timeout: 11 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 11 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByName.findElement(By.java:305)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.cs.ui.test.Common.accessCodeHandle(Common.java:25)
+	at com.cs.ui.test.Common.addTicketsToCart(Common.java:133)
+	at com.cs.ui.test.CoreStoreSmokeTest.buyTicketsAsNewCustomerWithSameAddressByCreditCard(CoreStoreSmokeTest.java:49)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Window not found. The browser window may have been closed.
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10917)
+	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7722)
+	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7868)
+	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7815)
+	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:10706)
+	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1935)
+	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2261)
+	at &lt;anonymous class&gt;.Connection.prototype.process(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1168)
+	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1616)
+	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1464)
+	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1333)
+</failure>
+    <system-out>&apos;buyTicketsAsNewCustomerWithSameAddressByCreditCard&apos; method strted
+Buy Ticket Button not found
+</system-out>
+  </testcase>
+  <testcase time="6.025" classname="com.cs.ui.test.CoreStoreSmokeTest" name="buyTicketsAsNewCustomerWithDifferentAddressByCreditCard">
+    <failure message="Window not found. The browser window may have been closed.
+Command duration or timeout: 10 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 10 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]
+	at sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByName.findElement(By.java:305)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.cs.ui.test.Common.accessCodeHandle(Common.java:25)
+	at com.cs.ui.test.Common.addTicketsToCart(Common.java:133)
+	at com.cs.ui.test.CoreStoreSmokeTest.buyTicketsAsNewCustomerWithDifferentAddressByCreditCard(CoreStoreSmokeTest.java:66)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Window not found. The browser window may have been closed.
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10917)
+	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7722)
+	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7868)
+	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7815)
+	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:10706)
+	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1935)
+	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2261)
+	at &lt;anonymous class&gt;.Connection.prototype.process(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1168)
+	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1616)
+	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1464)
+	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1333)
+</failure>
+    <system-out>&apos;buyTicketsAsNewCustomerWithDifferentAddressByCreditCard&apos; method strted
+Buy Ticket Button not found
+</system-out>
+  </testcase>
+  <testcase time="6.025" classname="com.cs.ui.test.CoreStoreSmokeTest" name="buyTicketsAsExistingCustomerByCrediCard">
+    <failure message="Window not found. The browser window may have been closed.
+Command duration or timeout: 11 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 11 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]
+	at sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByName.findElement(By.java:305)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.cs.ui.test.Common.accessCodeHandle(Common.java:25)
+	at com.cs.ui.test.Common.addTicketsToCart(Common.java:133)
+	at com.cs.ui.test.CoreStoreSmokeTest.buyTicketsAsExistingCustomerByCrediCard(CoreStoreSmokeTest.java:85)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Window not found. The browser window may have been closed.
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10917)
+	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7722)
+	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7868)
+	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7815)
+	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:10706)
+	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1935)
+	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2261)
+	at &lt;anonymous class&gt;.Connection.prototype.process(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1168)
+	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1616)
+	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1464)
+	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1333)
+</failure>
+    <system-out>&apos;buyTicketsAsExistingCustomerByPaypal&apos; method strted
+Buy Ticket Button not found
+</system-out>
+  </testcase>
+  <testcase time="6.025" classname="com.cs.ui.test.CoreStoreSmokeTest" name="buyTicketsAsExistingCustomerByPaypal">
+    <failure message="Window not found. The browser window may have been closed.
+Command duration or timeout: 9 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 9 milliseconds
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 0b5f9c90-f9cb-6a46-8b07-9e99dd1f0f5c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=25.0.1}]
+	at sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByName.findElement(By.java:305)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.cs.ui.test.Common.accessCodeHandle(Common.java:25)
+	at com.cs.ui.test.Common.addTicketsToCart(Common.java:133)
+	at com.cs.ui.test.CoreStoreSmokeTest.buyTicketsAsExistingCustomerByPaypal(CoreStoreSmokeTest.java:99)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Window not found. The browser window may have been closed.
+Build info: version: &apos;2.37.1&apos;, revision: &apos;a7c61cbd68657e133ae96672cf995890bad2ee42&apos;, time: &apos;2013-10-21 09:08:07&apos;
+System info: host: &apos;Shahiduls-MacBook-Pro.local&apos;, ip: &apos;192.168.1.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.8.5&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.nsCommandProcessor.prototype.execute(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10917)
+	at &lt;anonymous class&gt;.Dispatcher.executeAs/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7722)
+	at &lt;anonymous class&gt;.Resource.prototype.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7868)
+	at &lt;anonymous class&gt;.Dispatcher.prototype.dispatch(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:7815)
+	at &lt;anonymous class&gt;.WebDriverServer/&lt;.handle(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:10706)
+	at &lt;anonymous class&gt;.createHandlerFunc/&lt;(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1935)
+	at &lt;anonymous class&gt;.ServerHandler.prototype.handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:2261)
+	at &lt;anonymous class&gt;.Connection.prototype.process(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1168)
+	at &lt;anonymous class&gt;.RequestReader.prototype._handleResponse(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1616)
+	at &lt;anonymous class&gt;.RequestReader.prototype._processBody(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1464)
+	at &lt;anonymous class&gt;.RequestReader.prototype.onInputStreamReady(file:///var/folders/nv/lhxgdb8x6zn4qwqv_7_fqm7r0000gn/T/anonymous5311186019541655115webdriver-profile/extensions/fxdriver@googlecode.com/components/httpd.js:1333)
+</failure>
+    <system-out>&apos;buyTicketsAsExistingCustomerByCrediCard&apos; method strted
+Buy Ticket Button not found
+</system-out>
+  </testcase>
+</testsuite>
